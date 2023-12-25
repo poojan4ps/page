@@ -1,0 +1,15 @@
+body {
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.typing-container {
+    font-family: 'Fira Code', monospace;
+    font-size: 24px;
+    color: #0CE82B;
+    white-space: pre-line;
+}
